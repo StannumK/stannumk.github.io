@@ -1,3 +1,3 @@
-# angular-ivy-3em7sm
+# stannumk.github.io
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-3em7sm)
+SPA for personal use
